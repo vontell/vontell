@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My RG Profile](https://play.regression.gg/rgservice/profile-picture/31)
+
 <!--
 **vontell/vontell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
