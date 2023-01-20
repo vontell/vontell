@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+<a href="https://play.regression.gg" target="_blank"><img src="http://localhost:8080/profile-badge/1.png" alt="Buy Me A Coffee" style="height: 40px"></a>
 
-<a href="https://play.regression.gg" target="_blank"><img src="https://play.regression.gg/rgservice/profile-picture/37" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+![sdfsdf](http://localhost:8080/profile-badge/1.png)
 
 <!--
 **vontell/vontell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
