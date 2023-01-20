@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![My RG Profile](https://play.regression.gg/rgservice/profile-picture/31)
+
+<a href="https://play.regression.gg" target="_blank"><img src="https://play.regression.gg/rgservice/profile-picture/37" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 <!--
 **vontell/vontell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
