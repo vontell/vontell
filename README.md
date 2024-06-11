@@ -11,4 +11,6 @@ I'm the founder of [Regression Games](https://regression.gg) where we build tool
 
 Outside of technology and work, I'm an avid gamer, mostly as an [ADC main in League of Legends.](https://mobalytics.gg/lol/profile/na/dijkstraspath-na1/overview)
 
+I'm also a contributor to [PHLask](https://github.com/phlask), a Philadelphia-based project to help people find resources such as water, food, and bathrooms in the city.
+
 [![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=vontell)](https://github.com/anuraghazra/github-readme-stats)
