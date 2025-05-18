@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm the founder of [Regression Games](https://regression.gg), where we build tools for automated game testing using cutting-edge AI technology. In the past, I've worked on:
+I'm a Member of the Technical Staff at Anthropic. Previously, I was the founder of [Regression Games](https://regression.gg), where we built tools for automated game testing. I've also worked on:
 
 * 🤖 Machine learning product and infrastructure at [Instabase](https://instabase.com)
 * ⚛️ Quantum compilers at [Rigetti](https://rigetti.com)
